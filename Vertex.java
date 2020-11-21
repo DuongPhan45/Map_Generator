@@ -1,8 +1,7 @@
 package project3;
 
 //Name: Duong Phan
-//NetID: dphan7
-//Lab section: Gavett 244 TR 2-3.15pm
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.PriorityQueue;
